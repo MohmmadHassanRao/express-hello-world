@@ -1,0 +1,23 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no-repo"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Mohammad Hassan Rao",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
